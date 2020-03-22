@@ -1,0 +1,16 @@
+------------------------------------------
+Instrukcja do gry Kamieñ - Papier - No¿yce
+------------------------------------------
+OGÓLNE ZA£O¯ENIA GRY
+
+Gra polega na wybraniu jednego z trzech mo¿liwych elementów - kamieñ, papier lub no¿yce. No¿yce wygrywaja z papierem, papier z kamieniem natomiast kamieñ wygrywa z no¿ycami.
+------------------------------------------
+DOSTEPNE TRYBY
+1. Gra PvP - Gracz kontra Gracz. Ka¿dy z graczy wybiera jeden z trzech elementów - kamieñ, papier lub no¿yce.Zwyciêzca pojedynku otrzymuje 1pkt. Punkty zliczane s¹ do czasu a¿ gracz postanowi wyjœæ z gry. Wtedy te¿ wyœwietli siê wynik pojedynku.
+2. Gra PvP RM - Gracz kontra Gracz. Ka¿dy z graczy wybiera jeden z trzech elementów - kamieñ, papier lub no¿yce. Komputer losuje swoje elementy które póŸniej zestawia z wyborem graczy. Element który wygrywa w zestawieniu z komputerem reprezentuje gracza. Nastêpnie te elementy s¹ ze sob¹ zestawiane i zwyciezca dostaje 1 pkt.
+3. Gra PvC - Gracz kontra Komputer. Gracz wybiera jeden z trzech elementów - kamieñ, papier lub no¿yce.Komputer natomiast losuje swoj¹ odpowiedŸ. Zwyciê¿ca otrzymuje 1 pkt. Punkty s¹ zliczane, przy wyjœciu z gry wyœwietla siê wynik pojedynku.
+4. Gra PvC "10 szans" - Gracz kontra Komputer. jw + Gra toczy siê przez 10 rund. Na koñcu poznajemy zwyciêzcê pojedynku.
+5. Tablica wyników - tablica wyników z gry "4 - Gra PvC "10 szans"". Tablica pokazuje wyniki pojedynku z komputerem.
+6. Instrukcja obs³ugi - czyli to co w³aœnie czytasz :)
+7. Wyjœcie - wyjœcie z programu.
+------------------------------------------
